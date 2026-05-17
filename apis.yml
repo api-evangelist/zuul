@@ -27,14 +27,14 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/Netflix/zuul/wiki
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/Netflix/zuul/wiki/Getting-Started
 common:
   - type: Website
     url: https://github.com/Netflix/zuul
   - type: Documentation
     url: https://github.com/Netflix/zuul/wiki
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/Netflix
 maintainers:
   - FN: Kin Lane
